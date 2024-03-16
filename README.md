@@ -22,7 +22,6 @@
 <a href="https://linkedin.com/in/abraham-rosa-vargas-a77878164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham-rosa-vargas-a77878164" height="30" width="40" /></a>
 <a href="https://fb.com/abraham.rosavargas.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abraham.rosavargas.7" height="30" width="40" /></a>
 <a href="https://instagram.com/abrahamarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrahamarv" height="30" width="40" /></a>
-<a href="https://discord.gg/rmaharba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rmaharba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
