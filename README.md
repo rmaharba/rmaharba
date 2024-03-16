@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/rmaharbacv](https://bit.ly/rmaharbacv)
 
-- ⚡ Fun fact **I like to go out and do mountainbiking**
+- ⚡ Fun fact **I like to go out and do mountain biking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
