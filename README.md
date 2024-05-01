@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abrahamarv09@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/rmaharbacv](https://bit.ly/rmaharbacv)
+- 📄 Know about my experiences [https://bit.ly/maharbacv](https://bit.ly/maharbacv)
 
 - ⚡ Fun fact **I like to go out and do mountain biking**
 
