@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmaharba&label=Profile%20views&color=0e40b4&style=flat" alt="rmaharba" /> </p>
 
-- 🔭 I’m currently working on **freelancers projects**
+- 🔭 I’m currently working on **a really interesting mobile proyect 👀**
 
-- 🌱 I’m currently learning **Next.js and Swift.**
+- 🌱 I’m currently learning **more about React and looking more towards C++.**
 
 - 👯 I’m looking to collaborate on **open-sources react-native projects**
 
